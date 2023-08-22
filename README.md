@@ -13,7 +13,11 @@ Cursando Ciência da Computação no IFSP
 ### Aprendendo
 ![HTML](https://img.shields.io/badge/HTML5-E44F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7608F6?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-01579B?style=for-the-badge&logo=flutter&logoColor=54C5F8)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermequirinocruz&layout=compact)
-
 ## Estatísticas do Github
-![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermequirinocruz&show_icons=true&theme=dracula&hide=issues,contribs)
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermequirinocruz&layout=compact" />
+</p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=guilhermequirinocruz&show_icons=true&theme=dracula&hide=issues,contribs" />
+</p>
