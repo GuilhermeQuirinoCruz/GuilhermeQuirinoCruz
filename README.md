@@ -16,7 +16,7 @@ Cursando Ciência da Computação no IFSP
 ## Estatísticas do Github
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermequirinocruz&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermequirinocruz&layout=compact&langs_count=8" />
 </p>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=guilhermequirinocruz&show_icons=true&theme=dracula&hide=issues,contribs" />
