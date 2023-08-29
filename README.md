@@ -4,7 +4,7 @@ Programador, apaixonado por resolver problemas
 Cursando Ciência da Computação no IFSP
 
 ## Social
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-quirino-852776218/) [![Github](https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/GuilhermeQuirinoCruz) [![Notion](https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=black)](https://github.com/GuilhermeQuirinoCruz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-quirino-852776218/) [![Github](https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/GuilhermeQuirinoCruz) [![Notion](https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=black)](https://www.notion.so/guilherme-quirino)
 
 ## Linguagens e Tecnologias
 ### Principais
