@@ -1,7 +1,8 @@
 # Guilherme Quirino Pessoa de Araújo Cruz
 Programador, apaixonado por resolver problemas
 \
-Cursando Ciência da Computação no IFSP
+Técnico em informática pela Etec Vasco Antônio Venchiarutti
+Bacharel em Ciência da Computação pelo IFSP - Campus Salto
 
 ## Social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-quirino-cruz/) [![Github](https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/GuilhermeQuirinoCruz) [![Notion](https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=black)](https://www.notion.so/guilherme-quirino)
