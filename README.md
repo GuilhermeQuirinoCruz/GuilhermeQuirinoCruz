@@ -1,7 +1,9 @@
 # Guilherme Quirino Pessoa de Araújo Cruz
 Programador, apaixonado por resolver problemas
 \
+\
 Técnico em informática pela Etec Vasco Antônio Venchiarutti
+\
 Bacharel em Ciência da Computação pelo IFSP - Campus Salto
 
 ## Social
